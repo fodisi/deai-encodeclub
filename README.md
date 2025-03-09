@@ -1,9 +1,23 @@
 # deai-encodeclub
 
-## requirements
-- python3
-- pip
-- venv
+## prerequisites
+
+- Familiarity with using a shell/terminal/console/bash on your device
+  - Proficiency in basic commands like `cd`, `ls`, and `mkdir`
+  - Ability to execute packages, scripts, and commands on your device
+- Installation of Python tools on your device
+  - [Python](https://www.python.org/downloads/)
+  - [Pip](https://pip.pypa.io/en/stable/installation/)
+- Proficiency in using `python` and `pip` commands
+  - Documentation: [Python](https://docs.python.org/3/)
+  - Documentation: [Pip](https://pip.pypa.io/en/stable/)
+- Knowledge of using `venv` to create and manage virtual environments
+  - Documentation: [Python venv](https://docs.python.org/3/library/venv.html)
+- Installation of `git` CLI on your device
+  - [Git](https://git-scm.com/downloads)
+- Proficiency in using `git` commands to clone repositories
+  - Documentation: [Git](https://git-scm.com/doc)
+
 
 
 ## setup (linux/macOS/bash on windows)
